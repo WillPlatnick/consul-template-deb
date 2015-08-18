@@ -8,7 +8,7 @@ Usage
 
 Install the required dependencies.
 
-    sudo apt-get install ruby-dev ruby build-essential
+    sudo apt-get install ruby-dev ruby libffi-dev build-essential
     sudo gem install fpm
 
 Build the supported packages.
