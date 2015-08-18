@@ -1,5 +1,4 @@
 #!/bin/sh
 
-service consul stop
-
-rm -rf /var/consul
+service consul-template stop
+rm -rf /etc/consul-template

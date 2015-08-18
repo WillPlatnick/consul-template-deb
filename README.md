@@ -1,12 +1,12 @@
 Scope
 =====
 
-This is a FPM-based package builder for Consul.
+This is a FPM-based package builder for consul-template.
 
 Usage
 =====
 
-Install the required dependencies (CentOS 6.6).
+Install the required dependencies.
 
     sudo apt-get install ruby-dev ruby build-essential
     sudo gem install fpm

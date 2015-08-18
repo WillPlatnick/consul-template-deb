@@ -1,4 +1,3 @@
-/rootfs/usr/local/bin/consul
-/rootfs/usr/share/consul-ui
+/rootfs/usr/bin/consul-template
 /*.rpm
 /*.deb
